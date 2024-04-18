@@ -9,16 +9,13 @@
 - 💻 Go | Python | JavScript.....
 - 🌐 Vue| Element UI..... 
 - 🛢 MySQL | Redis.....
-- 🔧 GoLand | PyCharm | Visual Studio code | Linux | Git
-- 🖥 Photoshop | Pr
-
-
-
-### 💡 Techologies
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asolmn&show_icons=true&theme=flag-india&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
+- 🔧 GoLand | PyCharm | Visual Studio code | Linux | Git.....
 
 ### 📝 Pull Requests
 [[Feature] implement MD5() functions](https://github.com/matrixorigin/matrixone/pull/15584) on [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone)
+
+### 💡 Techologies
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asolmn&show_icons=true&theme=flag-india&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 💡 Plaforms
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asolmn&layout=compact&theme=flag-india)](https://github.com/devSouvik/github-readme-stats)
